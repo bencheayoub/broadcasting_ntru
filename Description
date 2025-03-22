@@ -1,0 +1,1 @@
+EllipticCurve can be adaptive to encryption.
