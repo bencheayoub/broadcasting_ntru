@@ -203,5 +203,5 @@ The solution implements a novel broadcast attack against NTRU, inspired by simil
 ## Final Output
 Successful decryption yields:
 ```
-SECCON{successful_recovery_of_shared_message}
+Alpaca{N7RU_ha5_m4ny_in73re571n6_vuln3r4bil1t13s^^}
 ```
